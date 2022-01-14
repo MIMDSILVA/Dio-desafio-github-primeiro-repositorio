@@ -5,5 +5,5 @@ Repositório criando para o Desafio de projeto.
 [Sintaxe Básica de Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
-Para começar esse repositório, vou contar uma historinha bem rápida, e quem se identificar pode com certeza comentar **Hahaha**
+Para começar esse repositório, vou contar uma historinha bem rápida, e quem se identificar pode com certeza comentar **"Hahaha"**
 
