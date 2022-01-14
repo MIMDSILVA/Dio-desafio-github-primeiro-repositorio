@@ -23,7 +23,19 @@ Ele muito lento, travado e por aí vai... tive uma super ideia, vou formatar, se
  # Link de apoio 
  [Como fazer dual boot (Windows e Linux Mint](https://www.topgadget.com.br/howto/linux/como-instalar-o-linux-mint.htm)
  
- [Comando do Linux - para se divertir! ](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
+ [Comandos do Linux - para se divertir! ](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
+ 
+Sendo assim, aqui estou eu de Github criado, fuçando em tudo, _Commitando_ pra valer, e entregando meu desafio só agora **rssss**, rindo de alívio!. O que eu aprendi?: 
+
+- 3º Antes tarde do que nunca!, que tenho ousadia de modificar um pouquinho esse provérbio - "Antes tarde APRENDENDO, do que nunca!."
+
+<imagem src "Michele.jpg">
+
+
+
+
+
+ 
  
  
 
