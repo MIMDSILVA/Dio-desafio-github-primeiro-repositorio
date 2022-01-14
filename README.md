@@ -23,7 +23,7 @@ Ele muito lento, travado e por aí vai... tive uma super ideia, vou formatar, se
  # Link de apoio 
  [Como fazer dual boot (Windows e Linux Mint](https://www.topgadget.com.br/howto/linux/como-instalar-o-linux-mint.htm)
  
- [Comando do Linux - para se divertir](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
+ [Comando do Linux - para se divertir! ](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
  
  
 
