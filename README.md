@@ -29,9 +29,12 @@ Sendo assim, aqui estou eu de Github criado, fuçando em tudo, _Commitando_ pra 
 
 - 3º Antes tarde do que nunca!, que tenho ousadia de modificar um pouquinho esse provérbio - "Antes tarde APRENDENDO, do que nunca!."
 
-<div align="center">
-<imag src="![Michele](https://user-images.githubusercontent.com/80549126/149435642-2b0abe98-a561-4a94-b9ce-744b98b470dd.png)" />
-</div>
+
+div align="center"
+
+img src="https://user-images.githubusercontent.com/80549126/149435642-2b0abe98-a561-4a94-b9ce-744b98b470dd.png" width="700px" /
+/div
+
 
 
 
